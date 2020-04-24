@@ -1,2 +1,2 @@
 # Movierating-_prediction
-Movie rating prediction ANN model
+It is a classification model(ANN) which predict the movie review positive or negative.
